@@ -1,7 +1,21 @@
 {
-  "showIndentGuide": false,
-  "showInlineTitle": false,
-  "promptDelete": false,
   "defaultViewMode": "preview",
-  "readableLineLength": false
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  },
+  "promptDelete": false,
+  "livePreview": false,
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false,
+  "vimMode": true,
+  "useTab": false,
+  "spellcheck": true,
+  "showLineNumber": true,
+  "showFrontmatter": true,
+  "readableLineLength": false,
+  "propertiesInDocument": "visible"
 }

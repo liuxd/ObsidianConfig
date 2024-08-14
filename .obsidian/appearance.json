@@ -1,8 +1,12 @@
 {
-  "accentColor": "",
-  "cssTheme": "Dracula Gemini",
-  "interfaceFontFamily": "Monaco,Yuanti TC,Yuanti SC",
+  "cssTheme": "Tokyo Night",
+  "theme": "obsidian",
+  "translucency": false,
+  "monospaceFontFamily": "Monaco,Yuanti TC",
+  "textFontFamily": "Monaco,Yuanti TC",
   "baseFontSize": 20,
-  "showViewHeader": true,
-  "theme": "obsidian"
+  "interfaceFontFamily": "Yuanti TC,Monaco",
+  "accentColor": "",
+  "nativeMenus": true,
+  "showViewHeader": true
 }
